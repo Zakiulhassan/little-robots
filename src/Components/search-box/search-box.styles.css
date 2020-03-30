@@ -1,0 +1,13 @@
+.search{
+    border: none;
+    -webkit-appearance: none;
+    outline: none;
+    padding: 10px;
+    width: 300px;
+    line-height: 30px;
+    margin-top: -10px;
+    margin-bottom: 60px;
+    box-shadow: -5px -5px 5px 0 rgba(255, 255, 255, 0.5), 5px 5px 5px 0 rgba(0, 0, 0, 0.05);
+    background: linear-gradient(120deg, rgb(240, 240, 240), #fdfdfd);
+    border-radius: 5px;
+}

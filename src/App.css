@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+
+
+h1 {
+  font-family: 'Josefin Sans';
+  font-size: 72px;
+  color: rgb(47, 192, 173);
+  /* margin-top: -5px; */
+}

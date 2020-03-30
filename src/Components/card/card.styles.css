@@ -1,0 +1,32 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    /* border: 1px solid midnightblue; */
+    padding: 20px;
+    cursor: pointer;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.2s ease-out;
+
+    align-items: center;
+    box-shadow: -8px -8px 8px 0 rgba(255, 255, 255, 0.4), 8px 8px 8px 0 rgba(0, 0, 0, 0.05);
+    max-width: 250px;
+    margin-bottom: 15px;
+}
+.img-circle{
+    width: 140px;
+    height: 140px;
+    border: 1px solid rgb(113, 211, 214);
+    border-radius: 50%;
+}
+h2{
+    color: rgb(47, 192, 173);
+}
+.email{
+    font-size: 18px;
+}
+.website{
+    color: rgb(47, 192, 173);
+    font-size: 20px;
+}
